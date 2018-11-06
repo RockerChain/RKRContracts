@@ -18,8 +18,6 @@ Tokens can be transferred by a sender to the beneficiary's address, when calling
 ## Specifications
 ###### Token
 * Basic ERC20 token features.
-* Mintable (by corresponding crowdsale contract only).
-* Pausable by owner.
 * Name: “RKRToken”.
 * Symbol: “RKR”.
 * Decimals: 18.
