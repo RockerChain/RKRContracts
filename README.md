@@ -1,5 +1,11 @@
 # RKRToken
 
+### Contract Deployed on 06-11-2018
+
+Contract deployed address 0x934296f39475cbdb4b1aff9b25f11fcdd0b22da8
+[Etherscan](https://etherscan.io/address/0x934296f39475cbdb4b1aff9b25f11fcdd0b22da8)
+
+
 ## Deployment
 1. Deploy RKRToken and note the address
 2. Deploy Reserved Vault
