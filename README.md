@@ -107,9 +107,9 @@ This can be done on [Etherscan](https://etherscan.io/address/<REAL_ADDRESS_HERE>
 
 Fill in the following data.
 ```
-Contract Address:       <CONTRACT_ADDRESS>
-Contract Name:          <CONTRACT_NAME>
-Compiler:               v0.4.19+commit.c4cbbb05
+Contract Address:       <0x934296f39475CBdB4B1AfF9b25F11FCDD0B22DA8>
+Contract Name:          <RKRToken>
+Compiler:               v0.4.24+commit.e67f0147
 Optimization:           YES
 Solidity Contract Code: <Copy & Paste from ./build/bundle/*.sol>
 Constructor Arguments:  <ABI from deployment output>
